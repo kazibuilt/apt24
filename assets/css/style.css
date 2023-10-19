@@ -2871,7 +2871,7 @@ img {
 .project-photo {
   height: 540px;
   transition: all .2s;
-  box-shadow: 7px 7px 20px rgba(0, 0, 0, .4);
+  /* box-shadow: 7px 7px 20px rgba(0, 0, 0, .4); */
 }
 
 .project-photo:hover {
@@ -2880,7 +2880,7 @@ img {
 
 .project-photo.project-1 {
   background-position: 50% 100%;
-  box-shadow: 7px 7px 20px rgba(0, 0, 0, .4);
+  /* box-shadow: 7px 7px 20px rgba(0, 0, 0, .4); */
 }
 
 .project-photo.project-5 {
@@ -3602,7 +3602,7 @@ img {
 .project-type-photo {
   height: 540px;
   transition: all .2s;
-  box-shadow: 7px 7px 20px rgba(0, 0, 0, .4);
+  /* box-shadow: 7px 7px 20px rgba(0, 0, 0, .4); */ 
 }
 
 .project-type-photo:hover {
